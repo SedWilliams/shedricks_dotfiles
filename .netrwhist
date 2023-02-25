@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='/home/shedrick/Dev/Rust/guess/guessing_game'
+let g:netrw_dirhist_4='/home/shedrick/Dev/Rust/guess'
+let g:netrw_dirhist_3='/home/shedrick/Dev/Rust'
+let g:netrw_dirhist_2='/home/shedrick/Dev'
+let g:netrw_dirhist_1='/home/shedrick'
+let g:netrw_dirhist_0='/home/shedrick/Dev/Rust/guess/guessing_game/src'
+let g:netrw_dirhist_9='/home/shedrick/Dev/Rust/guess/guessing_game'
+let g:netrw_dirhist_8='/home/shedrick/Dev/Rust/guess'
+let g:netrw_dirhist_7='/home/shedrick/Dev/Rust/guess/guessing_game/src'
+let g:netrw_dirhist_6='/home/shedrick/Dev/Rust/guess/guessing_game'
