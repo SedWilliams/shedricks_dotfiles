@@ -13,6 +13,10 @@ Plug 'fgheng/winbar.nvim'
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
 Plug 'rust-lang/rust.vim'
-Plug 'navarasu/onedark.nvim'
+Plug 'tpope/vim-fugitive'
+Plug 'ghifarit53/tokyonight-vim'
+Plug 'joshdick/onedark.vim'
+Plug 'fannheyward/coc-markdownlint'
+Plug 'junegunn/goyo.vim'
 call plug#end()
 
